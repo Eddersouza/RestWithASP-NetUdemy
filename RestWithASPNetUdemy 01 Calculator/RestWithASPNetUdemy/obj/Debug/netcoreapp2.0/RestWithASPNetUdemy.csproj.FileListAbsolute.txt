@@ -1,0 +1,11 @@
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\bin\Debug\netcoreapp2.0\RestWithASPNetUdemy.deps.json
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\bin\Debug\netcoreapp2.0\RestWithASPNetUdemy.runtimeconfig.json
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\bin\Debug\netcoreapp2.0\RestWithASPNetUdemy.runtimeconfig.dev.json
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\bin\Debug\netcoreapp2.0\RestWithASPNetUdemy.dll
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\bin\Debug\netcoreapp2.0\RestWithASPNetUdemy.pdb
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\obj\Debug\netcoreapp2.0\RestWithASPNetUdemy.csprojResolveAssemblyReference.cache
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\obj\Debug\netcoreapp2.0\RestWithASPNetUdemy.csproj.CoreCompileInputs.cache
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\obj\Debug\netcoreapp2.0\RestWithASPNetUdemy.AssemblyInfoInputs.cache
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\obj\Debug\netcoreapp2.0\RestWithASPNetUdemy.AssemblyInfo.cs
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\obj\Debug\netcoreapp2.0\RestWithASPNetUdemy.dll
+E:\Work\AulasUdemy\RestWithASP-NetUdemy\RestWithASPNetUdemy 01 Calculator\RestWithASPNetUdemy\obj\Debug\netcoreapp2.0\RestWithASPNetUdemy.pdb

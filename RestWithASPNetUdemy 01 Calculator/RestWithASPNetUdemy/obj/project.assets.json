@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Work\\AulasUdemy\\RestWithASP-NetUdemy\\RestWithASPNetUdemy\\RestWithASPNetUdemy\\RestWithASPNetUdemy.csproj",
+      "projectUniqueName": "E:\\Work\\AulasUdemy\\RestWithASP-NetUdemy\\RestWithASPNetUdemy 01 Calculator\\RestWithASPNetUdemy\\RestWithASPNetUdemy.csproj",
       "projectName": "RestWithASPNetUdemy",
-      "projectPath": "E:\\Work\\AulasUdemy\\RestWithASP-NetUdemy\\RestWithASPNetUdemy\\RestWithASPNetUdemy\\RestWithASPNetUdemy.csproj",
+      "projectPath": "E:\\Work\\AulasUdemy\\RestWithASP-NetUdemy\\RestWithASPNetUdemy 01 Calculator\\RestWithASPNetUdemy\\RestWithASPNetUdemy.csproj",
       "packagesPath": "C:\\Users\\Ederson A de Souza\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\AulasUdemy\\RestWithASP-NetUdemy\\RestWithASPNetUdemy\\RestWithASPNetUdemy\\obj\\",
+      "outputPath": "E:\\Work\\AulasUdemy\\RestWithASP-NetUdemy\\RestWithASPNetUdemy 01 Calculator\\RestWithASPNetUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

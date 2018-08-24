@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace RestWithASPNetUdemy.Model
+﻿namespace RestWithASPNetUdemy.Model
 {
     public class Person
     {
@@ -16,7 +11,5 @@ namespace RestWithASPNetUdemy.Model
         public string Address { get; set; }
 
         public string Gender { get; set; }
-
-
     }
 }

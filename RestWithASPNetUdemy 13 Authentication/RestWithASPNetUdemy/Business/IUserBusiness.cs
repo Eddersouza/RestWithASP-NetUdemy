@@ -1,9 +1,9 @@
-﻿using RestWithASPNetUdemy.Model;
+﻿using RestWithASPNetUdemy.Data.VO;
 
 namespace RestWithASPNetUdemy.Business
 {
     public interface IUserBusiness
     {
-        object FindByLogin(User user);
+        object FindByLogin(UserVO user);
     }
 }

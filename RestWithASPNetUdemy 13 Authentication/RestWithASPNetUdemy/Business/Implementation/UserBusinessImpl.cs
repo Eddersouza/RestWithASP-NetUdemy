@@ -3,6 +3,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Principal;
 using Microsoft.IdentityModel.Tokens;
+using RestWithASPNetUdemy.Data.VO;
 using RestWithASPNetUdemy.Model;
 using RestWithASPNetUdemy.Repository;
 using RestWithASPNetUdemy.Security.Configuration;
@@ -25,7 +26,7 @@ namespace RestWithASPNetUdemy.Business.Implementation
             _TokenConfiguration = tokenConfiguration;
         }
 
-        public object FindByLogin(User user)
+        public object FindByLogin(UserVO user)
         {
             bool credentialsIsValid = false;
 

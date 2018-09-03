@@ -19,7 +19,7 @@ namespace RestWithASPNetUdemy.Controllers
 
         [AllowAnonymous]
         [HttpPost]
-        public object Post([FromBody]User user)
+        public object Post([FromBody]UserVO user)
         {
             if (user == null) return BadRequest();
             return _userBusiness.FindByLogin(user);
